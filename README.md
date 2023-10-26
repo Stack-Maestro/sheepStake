@@ -1,6 +1,6 @@
-# Paradise
+# Sheep Stake/Market
 
-MVP version of Paradise
+MVP version of Sheep Stake/Market 
 
 ## Available Scripts
 
